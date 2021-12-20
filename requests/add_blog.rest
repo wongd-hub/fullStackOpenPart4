@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs 
+Content-Type: application/json
+
+{
+    "title": "Monte Carlo Simulation of Pharmaceutical Manufacturing Processes in Python",
+	"author": "Will Keefe",
+	"url": "https://towardsdatascience.com/monte-carlo-simulation-of-pharmaceutical-manufacturing-processes-in-python-b014eb96d14",
+	"likes": 6
+}
+
